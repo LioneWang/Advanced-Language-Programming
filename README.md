@@ -1,2 +1,2 @@
 # C_language
-大一上高级程序设计课程
+first year of freshman year
